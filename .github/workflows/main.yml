@@ -24,6 +24,6 @@ jobs:
           file: ./src/Dockerfile
           push: true
           tags: |
-            caiohenrique/live-kube-news:v1
-            caiohenrique/live-kube-news:latest
+            repocaiodocker/live-kube-news:v1
+            repocaiodocker/live-kube-news:latest
             
